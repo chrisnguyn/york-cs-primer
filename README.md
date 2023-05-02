@@ -11,8 +11,8 @@ Essentially, I'll be posting GitHub issues about things I want added (e.g. missi
 and those are free to work on. If there's something not listed that you want to see added, open an issue.
 
 ### Contact
-[GitHub](https://github.com/chrisngyn)  
+[GitHub](https://github.com/chrisnguyn)  
 
-[LinkedIn](https://www.linkedin.com/in/chrisngyn)  
+[LinkedIn](https://www.linkedin.com/in/chrisnguyn)  
 
 [Website](https://chrisnguyen.read.cv)
