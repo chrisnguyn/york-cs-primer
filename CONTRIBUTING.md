@@ -20,5 +20,5 @@ there needs to be a correction somewhere.
 - Fork this project to your GitHub account
 - Clone your forked copy to your machine: `git clone https://github.com/{YOUR_USER}/york-cs-primer.git`
 - To setup the project, `npm install` then `npm start`
-- Make your changes, commit to your branch, and open a PR: `https://github.com/chrisngyn/york-cs-primer/compare`
+- Make your changes, commit to your branch, and open a PR: `https://github.com/chrisnguyn/york-cs-primer/compare`
 - After merging to main, I run `npm run deploy` and it updates the website!
