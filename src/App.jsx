@@ -41,7 +41,7 @@ function App() {
             <a>
               <i>IMPORTANT DISCLAIMER</i> <br/><br/>
               This is not an official website! All content is opinionated and based on my experiences. <br/><br/>
-              Found this guide useful? Star it on <a style={{color: '#007bff'}} target='_blank' href='https://github.com/chrisngyn/york-cs-primer'>GitHub</a>! Last updated on 05/02/2023.
+              Found this guide useful? Star it on <a style={{color: '#007bff'}} target='_blank' href='https://github.com/chrisnguyn/york-cs-primer'>GitHub</a>! Last updated on 05/02/2023.
             </a>
           </div>
         </div>
